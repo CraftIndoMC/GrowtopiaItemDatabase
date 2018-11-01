@@ -10038,10 +10038,10 @@
 6858|Consume this fourteen full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
 
 // 30-D Sub
-6860|Consume this for thirty full days of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, and a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
+6860|Consume this for thirty full days of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, and a growth time reduction for your trees, 30 season tokens (as long as there's a seasonal clash running), and 1500 gems every day!
 
 // 365-D Sub
-6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
+6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 30 season tokens (as long as there's a seasonal clash running), and 1500 gems every day!
 
 // Tutorial Regen BG
 6864|This block is used in the tutorial AND spawns a block - just wait and see!
@@ -10210,7 +10210,7 @@
 7010|Need to transport something valuable across the gulf of space. Well, you can't trust someone to just carry it by hand, and you can't pack it in a lame, ground-based crate! Enter: The Starship Packing Crate! Specially made to endude the rigors of the void, this will - hopefully - keep the goods inside it safe, aswell.
 
 // Encapsulated Galaxy
-7012|Billions of stars, even mroe planets and moons, and who knows how many creatures, all in a single, easy-to-handle container, thanks to GrowTech's Experimental Immortality Division! This miracle of technology wasn't made by shrinking one of OUR galaxies, of course - GrowTech's engineers just took one from a parallel dimension where everything's waaaay smaller.
+7012|Billions of stars, even more planets and moons, and who knows how many creatures, all in a single, easy-to-handle container, thanks to GrowTech's Experimental Immortality Division! This miracle of technology wasn't made by shrinking one of OUR galaxies, of course - GrowTech's engineers just took one from a parallel dimension where everything's waaaay smaller.
 
 // Cosmic 5-Spice Star
 7014|Wow. You, uh, ground up an entire galaxy to make this spice. That's, like, uncountable numbers of living things, not to mention planets, stars, asteroids... all of it gone, turned into-well, okay, a COSMICALLY DELICIOUS spice, but still. That's cold, man.
@@ -10305,8 +10305,50 @@
 // Hay Cart
 7096|Incredibly soft and well-padded. You could easily hide in here, and probably even survive a leap of faith into it from hundreds of feet in the air - assuming your aim was perfect!
 
+// Apo Scythe
+7098|Stolen from one of the four riders of the Apocalypse, this deadly blade is able to slice open the veil between life and death.
+
+// Famine's Steed
+7100|The undead steed of one of the four riders of the Apocalypse, FAMINE. This dark steed withers all that it passes.
+
+// Conquest's Helm
+7102|BEHOLD! The conqueror approaches. All who view this helm shall flee in terror before its bearer, and those who remain will find naught but ruin.
+
 // Cat Eyes
 7106|Wow, pawesome! These new eyes are the cat's meow, and the purrfect addition to any style.
+
+// Evil Grin
+7110|Makes you look, WAY too happy...
+
+// Vampireness Dress
+7112|Perfect for a Bloodsucker's Ball!
+
+// Nightmare Vampiress Dress
+7114|The chosen garb for a dark baroness of the crypts, this coldly beautiful dress is made of the finest face and all set for a night of revelry and ruin!
+
+// Vapor Vent
+7116|Don't get too close! The fumes from this vent can blast a Growtopian to bones in seconds flat!
+
+// Riding Skeletal
+7118|Deaaaaaadly SHARK doo doo, doo doo doo doo! Deadly shark doo doo, doo doo doo doo!
+
+// Angler Mask
+7120|Makes even the most beautiful Growtopians into terrifying creatures of the depths! Great if you want to skip out on a blind date or scare small children!
+
+// Vampire Hunter Hat
+7124|Stake your claim on the night and show the legions of the undead who's boss with this extra-sharp hat. Remember, only the pointiest of headgear for the most skilled vampire hunters.
+
+// Tragicomic Mask
+7126|Celebrating happiness, sadness, and all the little moments in between! This mask will show the world you believe the true drama and splendor of life is not in stability, but in its highs and lows!
+
+// Growmoji Ghost
+7130|Celebrate halloween with ghost in your chat as well as your worlds! Just consume this to add it to your available growmojis!
+
+// Demon Angler Leash
+7132|This is a demonic fish, not a fish that angles for demons. If you're ever unsure about which it is, just check for the gruesome teeth and eyes! Luckily, this particular specimen seems happy to join you on your adventures. Don't get your fingers near those chompers, though - even if tts loyal, it's still a demon!
+
+// Skeletal Shark Leash
+7134|This is what happens when you don't feed your fish, then bury it in unhallowed ground! Even worse, it looks like some foul magic has brought it back to float by your side once more!
 
 // Heroic Tights of Prevention
 7138|Amazing prismatic pants for a true hero of Growtopia! These glorious tights will keep you safe from villains AND prevent you from picking up floating items in the world! Nothing sticks to you, for you have the power of heroes!

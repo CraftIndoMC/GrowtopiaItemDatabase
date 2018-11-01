@@ -255,3 +255,42 @@
 
 // Skeletal Horsie
 1178|SACRIFICEITEM|1018
+
+/////////////
+// 2018
+/////////////
+// Creepy Baby
+7128|SACRIFICERARITY|73
+
+// Vampireness
+7112|SACRIFICERARITY|73
+
+// Dark Aurora
+7104|SACRIFICEITEM|6144
+
+// Evil Grin
+7110|SACRIFICERARITY|70
+
+// Knife Head
+7108|SACRIFICERARITY|73
+
+// Vapor Vent
+7116|SACRIFICERARITY|30
+
+// Vampire Hunter
+7124|SACRIFICEITEM|4732
+
+// Growmoji Ghost
+7130|SACRIFICERARITY|100
+
+// Demon Plague
+7122|SACRIFICEITEM|4326
+
+// Conquest Mask
+7102|SACRIFICEITEM|6300
+
+// Tragicomic Mask
+7126|SACRIFICEITEM|6798
+
+// Famine's Steed
+7100|SACRIFICEITEM|2868

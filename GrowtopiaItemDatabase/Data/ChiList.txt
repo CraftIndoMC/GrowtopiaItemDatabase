@@ -5352,6 +5352,9 @@
 6988|EARTH
 6990|EARTH
 
+// Encapsulated Galaxy
+7012|WIND
+
 // Mengu Koi
 7022|NONE
 
@@ -5387,6 +5390,9 @@
 
 // Growmoji Songpyeon
 7062|EARTH
+
+// Vapor Vent
+7116|EARTH
 
 // Tentacle
 7140|EARTH

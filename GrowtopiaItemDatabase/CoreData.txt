@@ -7103,44 +7103,44 @@
 7095|Ezio's Boots Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7096|Hay Cart|999|MultiFacing, NoSeed, Permanent, Dropless, AutoPickup, Foreground|Foreground_Block|B38854|DFC692|8|3600|None
 7097|Hay Cart Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7098|null_item7098|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EA0116|6BBC9B|0|31|None
-7099|null_item7098 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7100|null_item7100|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F45A24|E82E0E|0|31|None
-7101|null_item7100 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7102|null_item7102|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA0043|FA2E17|0|31|None
-7103|null_item7102 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7104|null_item7104|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6927D|13DB47|0|31|None
-7105|null_item7104 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7098|Apocalypse Scythe|999|NoSeed, Dropless|Clothing|707070|36F092|0|3600|Hand
+7099|Apocalypse Scythe Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7100|Famine's Steed|999|NoSeed, Dropless|Clothing|707070|36F092|0|3600|Feet
+7101|Famine's Steed Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7102|Conquest's Helm|999|NoSeed, Dropless, Untradable|Clothing|707070|36F092|0|3600|Hat
+7103|Conquest's Helm Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7104|Dark Aurora Wings|999|NoSeed, Dropless|Clothing|707070|540909|0|3600|Back
+7105|Dark Aurora Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7106|Cat Eyes|999|NoSeed, Dropless|Clothing|262626|A01519|0|3600|Face
 7107|Cat Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7108|null_item7108|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E93825|D6551E|0|31|None
-7109|null_item7108 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7110|null_item7110|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BC5812|65B559|0|31|None
-7111|null_item7110 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7112|null_item7112|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EC4C21|B60ECF|0|31|None
-7113|null_item7112 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7114|null_item7114|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6E022|4EB87A|0|31|None
-7115|null_item7114 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7116|null_item7116|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|2DB521|DC761B|0|31|None
-7117|null_item7116 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7118|null_item7118|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8AC755|89CC4A|0|31|None
-7119|null_item7118 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7120|null_item7120|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DA0C54|65DF59|0|31|None
-7121|null_item7120 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7122|null_item7122|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8A7724|E9731A|0|31|None
-7123|null_item7122 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7124|null_item7124|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|22D612|0AF55D|0|31|None
-7125|null_item7124 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7126|null_item7126|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE491B|75B371|0|31|None
-7127|null_item7126 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7128|null_item7128|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE5723|0ABFA0|0|31|None
-7129|null_item7128 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7130|null_item7130|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E86713|E43A29|0|31|None
-7131|null_item7130 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7132|null_item7132|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D4E100|34B089|0|31|None
-7133|null_item7132 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7134|null_item7134|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B7330F|F23245|0|31|None
-7135|null_item7134 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7108|Knife Head|55|NoSeed, Foreground|Clothing|959595|C31F23|0|168025|Hair
+7109|Knife Head Seed|55|NoSeed|Seed|000000|000000|20|0|None
+7110|Evil Grin|70|NoSeed, Dropless|Clothing|ACACAC|FFFFFF|0|345100|Face
+7111|Evil Grin Seed|70|NoSeed|Seed|000000|000000|20|0|None
+7112|Vampiress Dress|90|NoSeed, Dropless|Clothing|555555|900F12|0|731700|Shirt
+7113|Vampiress Dress Seed|90|NoSeed|Seed|000000|000000|20|0|None
+7114|Nightmare Vampiress Dress|90|NoSeed, Dropless|Clothing|252525|993997|0|731700|Shirt
+7115|Nightmare Vampiress Dress Seed|90|NoSeed|Seed|000000|000000|20|0|None
+7116|Vapor Vent|30|NoSeed, Dropless, Foreground|Foreground_Block|111111|665B4D|8|27900|None
+7117|Vapor Vent Seed|30|NoSeed|Seed|000000|000000|20|0|None
+7118|Riding Skeletal Shark|999|NoSeed, Dropless|Clothing|E9E9E9|797979|0|3600|Feet
+7119|Riding Skeletal Shark Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7120|Angler Mask|999|NoSeed, Dropless|Clothing|4A2A28|F4D212|0|3600|Hat
+7121|Angler Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7122|Demon Plague Doctor Mask|999|NoSeed, Dropless|Clothing|534741|2C2C2C|0|3600|Face
+7123|Demon Plague Doctor Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7124|Vampire Hunter Hat|107|NoSeed|Clothing|232323|9F9A98|0|1228253|Hat
+7125|Vampire Hunter Hat Seed|107|NoSeed|Seed|000000|000000|20|0|None
+7126|Tragicomic Mask|999|NoSeed, Dropless|Clothing|E1E1FB|B7B7B7|0|3600|Hat
+7127|Tragicomic Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7128|Creepy Baby Head Mask|73|NoSeed, Dropless|Clothing|EFC27C|0072BC|0|391207|Hair
+7129|Creepy Baby Head Mask Seed|73|NoSeed|Seed|000000|000000|20|0|None
+7130|Growmoji Ghost|100|NoSeed, Dropless|Consummable|2076A0|88EADB|5|1003000|None
+7131|Growmoji Ghost Seed|100|NoSeed|Seed|000000|000000|20|0|None
+7132|Demon Angler Leash|999|NoSeed, Dropless|Clothing|4A2A28|F4D212|0|100|Hand
+7133|Demon Angler Leash Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7134|Skeletal Shark Leash|999|NoSeed, Dropless|Clothing|E9E9E9|797979|0|120|Hand
+7135|Skeletal Shark Leash Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7136|Ethereal Rainbow Dragon|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Chest
 7137|Ethereal Rainbow Dragon Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7138|Heroic Tights of Prevention|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Pants

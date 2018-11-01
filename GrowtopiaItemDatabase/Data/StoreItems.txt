@@ -608,6 +608,7 @@
 // Halloween
 1180|STORE|GEM|40000|Only during Halloween.
 4184|STORE|GEM|150000|Only during Halloween.
+7098|STORE|GEM|250000|Only during Halloween.
 
 //Other
 3144|STORE|GEM|200000|During Night of the Comet

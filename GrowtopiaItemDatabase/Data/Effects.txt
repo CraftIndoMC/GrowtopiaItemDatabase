@@ -398,6 +398,8 @@
 6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.
 // Fishing Dinghy, Wheelchair, Riding Bull, All Food Buffs
 7044|Punch Damage: AXE!|Nothing will stand in my way!|The axe returns to its velvet case!
+7098|Punch Damage: AXE!|Nothing will stand in my way!|The scythe returns to its velvet case!
+7100|Speedy: Rider of the Apocalypse|Decay follows in your wake!|Knocked off your high horse!
 // Cat Eyes
 7142|Punch Range: Tentacle Attack!|Good boy, Triffid!|Back to your nest!
 7150|Double-Jump: Light as stone!|Those are some evil-lookin' wings!|Time has worn your wings to dust!
