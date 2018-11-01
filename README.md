@@ -1,6 +1,8 @@
 # GrowtopiaItemDatabase
 This is a database for the game Growtopia containing most recipes and core data, easily usable for developers.
 Feel free to open an issue if some of the data is wrong, or pull request if you have additional data you could add.
+## Update Frequency
+Due to the ongrowing use of this database for projects such as private servers, the database will always be behind one update in order to keep the main server ahead of stuff. Meaning, it won't ever be "up-to-date", but always one, and not more, updates behind.
 
 ## Note
 This database was created by Nenkaai on the Growtopia Forums, Nenkai#4915. 
